@@ -1,0 +1,100 @@
+# This is the list of OSS Python packages that has been approved for usage at Blue Yonder
+#
+# Please keep this list sorted!
+absl-py==0.7.0  # Apache 2 - collection of Python library code for building Python applications
+accumulation-tree==0.5  # MIT - Red/black tree with support for fast accumulation of values in a key range. https://github.com/tkluck/accumulation_tree
+accumulation-tree==0.6  # MIT - Red/black tree with support for fast accumulation of values in a key range. https://github.com/tkluck/accumulation_tree
+aedir==0.0.22 # Apache License - AE-DIR library for Python
+aedir==0.0.26 # Apache License - AE-DIR library for Python
+aedir==0.0.28 # Apache License - AE-DIR library for Python
+aedir==0.1.0 # Apache License - AE-DIR library for Python
+aedir==0.1.8 # Apache License - AE-DIR library for Python
+adal==0.4.5 # MIT - ADAL for Python
+adal==1.0.2 # MIT - ADAL for Python
+adal==1.2.1 # MIT - ADAL for Python
+airflow==1.6.2 # Apache License 2.0 - Programmatically author, schedule and monitor data pipelines
+airflow==1.7.0 # Apache License 2.0 - Programmatically author, schedule and monitor data pipelines
+airflow==1.7.1.3 # Apache License 2.0 - Programmatically author, schedule and monitor data pipelines
+aiodns==1.2.0  # MIT – Simple DNS resolver for asyncio
+aiohttp==3.4.4  # Apache License 2.0 - Asynchronous HTTP Client/Server for asyncio and Python.
+aiohttp==3.5.4  # Apache License 2.0 - Asynchronous HTTP Client/Server for asyncio and Python.
+apache-airflow==1.8.2 # Apache License 2.0, with one GPLv2 dependency (unidecode), see OSS-518 - Programmatically author, schedule and monitor data pipelines
+apache-airflow==1.9.0 # Apache License 2.0, with one GPLv2 dependency (unidecode)
+apache-airflow==1.10.0 # Apache License 2.0, with flag to remove the one GPLv2 dependency (unidecode)
+apache-airflow==1.10.1 # Apache License 2.0, with flag to remove the one GPLv2 dependency (unidecode)
+apache-airflow==1.10.2 # Apache License 2.0, with flag to remove the one GPLv2 dependency (unidecode)
+alabaster==0.7.7  # BSD 3-clause - Sphinx theme
+alabaster==0.7.10  # BSD 3-clause - Sphinx theme
+alabaster==0.7.11  # BSD 3-clause - Sphinx theme
+alabaster==0.7.12  # BSD 3-clause - Sphinx theme
+alembic==0.8.3 # MIT - database migration tool for SQLAlchemy
+alembic==0.8.4  # MIT - database migration tool for SQLAlchemy
+alembic==0.8.6  # MIT - database migration tool for SQLAlchemy
+alembic==0.8.7  # MIT - database migration tool for SQLAlchemy
+alembic==0.8.10  # MIT - database migration tool for SQLAlchemy
+alembic==0.9.1  # MIT - database migration tool for SQLAlchemy
+alembic==0.9.5  # MIT - database migration tool for SQLAlchemy
+alembic==0.9.9  # MIT - database migration tool for SQLAlchemy
+alembic==0.9.10  # MIT - database migration tool for SQLAlchemy
+alembic==1.0.0  # MIT - database migration tool for SQLAlchemy
+alembic==1.0.7  # MIT - database migration tool for SQLAlchemy
+altair==1.2.1  # BSD 3-clause - Declarative statistical visualization library for Python
+altair==2.0.1  # BSD 3-clause - Declarative statistical visualization library for Python
+altair==2.1.0  # BSD 3-clause - Declarative statistical visualization library for Python
+altair==2.2.2  # BSD 3-clause - Declarative statistical visualization library for Python
+altair==2.3.0  # BSD 3-clause - Declarative statistical visualization library for Python
+altair==3.0.0  # BSD 3-clause - Declarative statistical visualization library for Python
+amqp==2.2.2  # BSD - Low-level AMQP client for Python (fork of amqplib)
+amqp==2.3.2  # BSD - Low-level AMQP client for Python (fork of amqplib)
+aniso8601==1.0.0 # BSD 3-clause. ISO 8601 Datetime parsing (dependency of flask-restful)
+aniso8601==1.1.0 # BSD 3-clause. ISO 8601 Datetime parsing (dependency of flask-restful)
+aniso8601==1.2.0 # BSD 3-clause. ISO 8601 Datetime parsing (dependency of flask-restful)
+aniso8601==1.3.0 # BSD 3-clause. ISO 8601 Datetime parsing (dependency of flask-restful)
+aniso8601==3.0.2 # BSD 3-clause. ISO 8601 Datetime parsing (dependency of flask-restful)
+aniso8601==4.0.1 # BSD 3-clause. ISO 8601 Datetime parsing (dependency of flask-restful)
+ansicolors==1.0.2  # Apache License - A library to produce ansi color output and colored highlighting and diffing
+ansiwrap==0.8.3  # APL 2.0 - textwrap, but savvy to ANSI colors and styles
+ansiwrap==0.8.4  # APL 2.0 - textwrap, but savvy to ANSI colors and styles
+anyjson==0.3.3  # BSD - Wraps the best available JSON implementation available in a common interface
+apache.aurora.admin==0.9.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.10.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.11.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.12.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.13.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.14.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.15.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.admin==0.16.0  # APL 2.0 - Client to administer the Aurora framework
+apache.aurora.clientv2==0.6.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.clientv2==0.7.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.9.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.10.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.11.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.12.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.13.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.14.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.15.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.16.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.17.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.18.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.client==0.19.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.6.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.7.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.9.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.10.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.11.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.12.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.13.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.14.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.15.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.16.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.17.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.18.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.common==0.19.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.6.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.7.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.9.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.10.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.11.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.12.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.13.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
+apache.aurora.config==0.14.0  # APL 2.0 - Client to run job son Mesos using the Aurora framework
